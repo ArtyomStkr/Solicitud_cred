@@ -1,6 +1,8 @@
 # JOSU · Solicitud de crédito
 
-Formulario React + TypeScript para completar una plantilla fija y descargar el expediente como ODS o Excel (.xlsx). No requiere cuentas ni servidor de datos. Los datos ingresados se procesan en el navegador y el borrador se guarda en localStorage.
+JOSU es un proyecto rápido y sencillo de llenado automático de documentos mediante un formulario web. Permite ingresar los datos y generar rápidamente archivos **ODS (.ods)** y **Excel (.xlsx)** a partir de una plantilla fija.
+
+Desarrollado con React y TypeScript. No requiere cuentas ni servidor de datos. La información se procesa en el navegador y el borrador se guarda en el dispositivo.
 
 ```sh
 npm ci
