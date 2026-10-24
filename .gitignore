@@ -4,6 +4,7 @@ dist/
 *.ods
 !public/plantilla.ods
 *.xlsx
+!public/plantilla.xlsx
 docs/ods-analysis.json
 *.tsbuildinfo
 .env*
