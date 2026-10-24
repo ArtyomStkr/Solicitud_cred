@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.local/
+*.ods
+!public/plantilla.ods
+*.xlsx
+docs/ods-analysis.json
+*.tsbuildinfo
+.env*
+!.env.example
